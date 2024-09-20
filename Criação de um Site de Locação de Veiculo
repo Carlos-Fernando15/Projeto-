@@ -1,0 +1,105 @@
+Aluno: Carlos Fernando Ferreira Nolasco 
+
+Projeto: Criação de um Site de Locação de Veículos
+
+1. Introdução
+
+A criação de um site de locação de veículos visa atender à crescente demanda por serviços digitais no setor de mobilidade. O mercado de locação de veículos, que já era forte em regiões turísticas e urbanas, tem se expandido graças à popularização de plataformas online, que oferecem praticidade e eficiência tanto para os locadores quanto para os clientes. Este projeto pretende desenvolver um site que permita ao usuário consultar veículos disponíveis, realizar reservas e efetuar pagamentos, tudo de maneira online e integrada.
+
+O foco será em uma interface intuitiva e um sistema robusto de gestão de frota, permitindo que o cliente tenha uma experiência completa e sem fricções ao realizar suas locações. 
+
+1.1. Importância
+
+A importância de um site de locação de veículos está diretamente ligada à mudança de comportamento dos consumidores, que cada vez mais buscam soluções digitais rápidas e práticas para seus problemas de mobilidade. Um site funcional pode não só aumentar o número de reservas, mas também melhorar a experiência do cliente, oferecendo-lhe controle total sobre o processo de locação, desde a consulta de veículos até o pagamento.
+
+Além disso, a presença digital é essencial para alcançar um público mais amplo e garantir a competitividade no mercado. Empresas que não oferecem soluções online perdem para concorrentes que investem em tecnologia e inovação. Um site bem desenvolvido pode aumentar consideravelmente a visibilidade da empresa, melhorando a comunicação com o cliente, a gestão interna e a eficiência do negócio como um todo.
+
+
+2. Fases do Projeto: Ciclo de Vida
+
+2.1. Iniciação  
+O objetivo do projeto é criar um site funcional e intuitivo para uma empresa de locação de veículos, permitindo que os usuários consultem a frota disponível, realizem reservas e façam pagamentos de maneira segura e eficiente.
+
+Stakeholders Identificados:
+- Proprietário da empresa de locação: Interessado em aumentar as reservas e melhorar a eficiência do processo de locação.
+- Clientes finais (locatários): Usuários que desejam facilidade e rapidez ao alugar um veículo online.
+- Equipe de desenvolvimento web: Responsável pelo design e implementação do site.
+- Equipe de TI/Infraestrutura: Responsável pela hospedagem, segurança e manutenção do site.
+- Equipe de Marketing: Responsável pela divulgação e SEO (otimização para motores de busca) do site.
+
+2.2. Planejamento  
+Nessa fase, serão definidos o escopo, o cronograma, o orçamento e a gestão de riscos.
+
+Escopo: O site terá as seguintes funcionalidades principais:
+•	Página inicial com descrição da empresa e serviços.
+•	Pesquisa de veículos por categoria, preço, disponibilidade e localização.
+•	Sistema de reservas com integração a plataformas de pagamento.
+•	Área de cadastro de clientes e login.
+•	Painel administrativo para gestão da frota e controle de reservas.
+•	Sistema de notificações por e-mail ou SMS.
+•	Otimização SEO para garantir melhor rankeamento nos motores de busca.
+
+ Cronograma: O desenvolvimento será realizado em 3 meses, conforme o plano abaixo:
+•	 Mês 1: Planejamento e prototipagem do site.
+•	 Mês 2: Desenvolvimento do front-end e back-end.
+•	 Mês 3: Testes, ajustes finais e lançamento.
+
+ Orçamento: O orçamento estimado é de R$ 35.000, distribuído da seguinte forma:
+•	 Contratação de desenvolvedor full-stack e designer.
+•	 Hospedagem e serviços de integração com sistemas de pagamento.
+•	 Licenciamento de ferramentas e APIs (Google Maps, sistema de pagamento, etc.).
+•	 Marketing digital para lançamento.
+
+Gestão de Riscos:
+•	 Atrasos no desenvolvimento: Criar cronograma com folga e revisar semanalmente.
+•	 Problemas de integração de pagamento: Testar plataformas de pagamento antecipadamente.
+•	 Falhas de segurança: Implementar auditorias de segurança no site para evitar brechas de dados.
+  
+ Planejamento de Comunicação:  
+•	 Reuniões semanais com o proprietário da empresa e a equipe de desenvolvimento.
+•	 Ferramentas de comunicação e acompanhamento de tarefas como Trello e Slack.
+
+2.3. Execução  
+A fase de execução é onde o site será desenvolvido e colocado em prática, seguindo o planejamento. As atividades principais incluem:
+
+ Prototipagem:  
+  O designer criará um protótipo utilizando o Figma, com todas as telas do site, para garantir que a navegação e usabilidade sejam simples e intuitivas.
+
+ Desenvolvimento:
+•	O front-end será desenvolvido com ReactJS, proporcionando uma interface interativa e responsiva.
+•	O back-end será construído com Node.js e MongoDB para gerenciar as reservas, cadastros e a frota.
+•	Integração com sistemas de pagamento como PagSeguro ou Stripe.
+•	API do Google Maps para localização das filiais e disponibilidade de veículos por região.
+
+ Recursos Alocados:
+•	Desenvolvedor full-stack para front-end e back-end.
+•	Designer UI/UX para prototipagem e experiência do usuário.
+•	Especialista em SEO e marketing digital para otimização e divulgação.
+•	Hospedagem em servidor seguro com certificação SSL.
+
+ Gerenciamento da Equipe:  
+  A equipe será gerida por meio de reuniões semanais com o desenvolvedor e o designer, além de controle diário das atividades usando ferramentas como Trello. O proprietário será informado sobre o progresso semanalmente e poderá sugerir ajustes no design ou funcionalidades.
+
+2.4. Monitoramento e Controle  
+O acompanhamento do progresso será feito durante toda a execução para garantir que o cronograma e o orçamento sejam cumpridos.
+
+ Monitoramento do Cronograma:  
+  A equipe acompanhará o progresso de cada fase do desenvolvimento com reuniões semanais. Relatórios serão gerados para garantir que as funcionalidades estão sendo implementadas conforme previsto.
+
+ Acompanhamento de Riscos:  
+  Será mantida atenção especial na integração de sistemas de pagamento e segurança de dados, além da gestão de performance, para garantir que o site funcione bem sob grande volume de acessos.
+
+ Testes de Funcionalidade e Usabilidade:  
+  Ao fim de cada módulo de desenvolvimento, testes serão realizados para garantir que o site esteja funcionando corretamente em diferentes dispositivos (desktop, tablet, mobile) e navegadores.
+
+2.5. Encerramento  
+A fase de encerramento consiste na entrega do site final e a implementação dos últimos ajustes.
+
+ Entrega Final:  
+  O site será entregue ao cliente com todas as funcionalidades previamente definidas. Serão realizadas revisões e ajustes finais com base no feedback dos stakeholders.
+
+ Lições Aprendidas:  
+  Será elaborado um relatório de lições aprendidas destacando as soluções mais eficientes (como a escolha de ReactJS e Node.js) e os desafios enfrentados, como a integração dos sistemas de pagamento. Esse documento poderá ser utilizado como referência para futuros projetos digitais.
+
+ Documentação Final:  
+  Toda a documentação técnica, como o código fonte, protótipos e guias de uso, será entregue ao cliente. Instruções de uso e manutenção do painel administrativo serão incluídas para garantir que o cliente possa gerir o site de forma independente.
