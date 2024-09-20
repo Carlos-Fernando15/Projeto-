@@ -1,0 +1,90 @@
+Aluno: Carlos Fernando Ferreira Nolasco 
+
+Projeto: Criação de um Aplicativo Básico
+
+1. Introdução
+
+O desenvolvimento de aplicativos móveis tem se tornado cada vez mais necessário para empresas de todos os portes, principalmente em um mercado onde o consumidor exige conveniência e acesso rápido às informações. Este projeto visa criar um aplicativo básico para uma loja de pequeno porte, com o objetivo de oferecer aos clientes uma maneira simples e prática de acessar o catálogo de produtos e se comunicar diretamente com a loja. A proposta é entregar uma solução funcional e acessível, sem a complexidade de sistemas maiores e mais custosos.
+
+1.1. Importância
+
+A importância deste projeto se dá pelo fato de que, no cenário atual, a presença digital de uma empresa é essencial para aumentar seu alcance e proporcionar uma melhor experiência ao cliente. Um aplicativo básico pode transformar a forma como os clientes interagem com a loja, oferecendo praticidade e agilidade. Além disso, a competitividade no setor de varejo exige que até mesmo pequenas empresas tenham acesso a tecnologias que facilitem o atendimento ao cliente e a divulgação de seus produtos.
+
+Ao criar um aplicativo, a loja consegue se posicionar de maneira mais moderna, alcançar um público maior, e facilitar o processo de compra e consulta de produtos, o que pode refletir diretamente em um aumento nas vendas e na fidelização dos clientes. Portanto, o desenvolvimento de um aplicativo simples não é apenas uma atualização tecnológica, mas uma estratégia de negócios que visa melhorar o relacionamento com o consumidor e a eficiência operacional da loja.
+
+
+2. Fases do Projeto: Ciclo de Vida
+
+2.1. Iniciação
+O objetivo do projeto é desenvolver um aplicativo que funcione como um catálogo de produtos de uma loja de pequeno porte, permitindo que os clientes consultem produtos disponíveis e entrem em contato direto com a loja.  
+
+Stakeholders Identificados:
+- Dono da loja: Interesse no aumento de vendas e melhoria na satisfação dos clientes.
+- Clientes finais: Usuários do app que buscam praticidade ao consultar produtos.
+- Equipe de TI: Responsável pelo suporte técnico e manutenção.
+- Desenvolvedor: Responsável pela criação e implementação do aplicativo.
+- Designer de UI/UX: Responsável pelo layout e experiência do usuário.
+
+2.2. Planejamento  
+Aqui são definidos o escopo, o cronograma, o orçamento e as estratégias de comunicação e gestão de riscos.
+   
+ Escopo: Desenvolver um app com as seguintes funcionalidades:
+•	 Catálogo de produtos.
+•	 Busca de produtos.
+•	 Canal de contato com a loja via chat ou WhatsApp.
+   
+ Cronograma: O desenvolvimento será feito em 2 meses, com o seguinte plano:
+•	 Semana 1: Definição de requisitos.
+•	 Semana 2: Prototipagem e design das telas.
+•	 Semanas 3-5: Desenvolvimento do app (front-end e back-end).
+•	 Semanas 6-7: Testes de funcionalidade e usabilidade.
+•	 Semana 8: Correção de erros e entrega final.
+   
+ Orçamento: Prevê-se um valor de R$ 10.000, para:
+•	 Licenciamento e ferramentas (Firebase, hospedagem, etc.).
+•	 Pagamento de 1 desenvolvedor e 1 designer.
+
+ Gestão de Riscos:
+•	 Atrasos no desenvolvimento: Planejamento de prazos com folga.
+•	 Erros ou bugs: Previsão de tempo adicional para testes e correções.
+•	 Problemas de integração com o banco de dados: Acompanhamento constante e testes em fases iniciais.
+
+ Planejamento de Comunicação:  
+•	 Reuniões semanais com o cliente (dono da loja) e a equipe.
+•	 Trello para gerenciamento de tarefas e Slack para comunicação interna.
+
+2.3. Execução  
+Durante a fase de execução, o desenvolvimento será focado nas funcionalidades previstas.
+
+ Prototipagem e Design:  
+  O designer utilizará o Figma para criar as telas e fluxos de navegação, garantindo uma interface intuitiva e simples.
+
+ Desenvolvimento:  
+  - O front-end será desenvolvido com Flutter, garantindo compatibilidade com Android e iOS.
+  - O back-end será gerenciado pelo Firebase, que oferece um bom suporte para bancos de dados e autenticação de usuários.
+
+ Recursos Alocados:
+  - 1 Desenvolvedor full-stack (front-end e back-end).
+  - 1 Designer de UI/UX.
+  - Ferramentas de suporte: Firebase, Trello e Slack.
+
+ Gerenciamento da Equipe:  
+  A equipe terá metas semanais com revisões frequentes para garantir que o cronograma esteja sendo seguido. Reuniões curtas no início e no final da semana manterão todos alinhados com os objetivos.
+
+2.4. Monitoramento e Controle  
+Durante a execução, o progresso será monitorado com ferramentas como Trello (para acompanhamento das tarefas) e testes de funcionalidade a cada etapa concluída.
+
+ Acompanhamento de Riscos:  
+  A equipe estará atenta a possíveis atrasos ou bugs durante o desenvolvimento, com foco em realizar correções de forma proativa. Testes semanais serão realizados para garantir que o app funcione bem em diferentes dispositivos.
+
+ Testes de Usabilidade:  
+  Após a conclusão de cada módulo do app, será feito um teste com usuários finais (clientes da loja) para validar a funcionalidade e a experiência do usuário.
+
+2.5. Encerramento  
+Na fase de encerramento, o projeto será revisado junto ao cliente (dono da loja) para garantir que todas as expectativas foram atendidas. A entrega final incluirá a instalação do aplicativo e os ajustes finais com base no feedback do cliente.
+
+ Lições Aprendidas:  
+  Um documento será elaborado com as principais lições aprendidas durante o projeto. Aspectos como o uso de Flutter para desenvolvimento e Firebase para back-end serão destacados como pontos fortes. Por outro lado, será recomendada uma reserva de tempo maior para testes, visto que os bugs finais exigiram mais atenção do que o previsto.
+
+ Documentação Final:  
+  Toda a documentação, incluindo requisitos, cronogramas, e relatórios de riscos, será arquivada para futuras referências.
