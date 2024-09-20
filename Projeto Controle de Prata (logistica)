@@ -1,0 +1,106 @@
+Aluno: Carlos Fernando Ferreira Nolasco
+
+Projeto: Controle de Prata (Logística)
+
+1. Introdução
+
+O projeto de controle de prata está relacionado à gestão logística de materiais de alto valor, com foco na prata, um recurso valioso utilizado em diversos setores, como a indústria de joias, eletrônicos e moedas. A logística de prata requer um controle rigoroso tanto em termos de armazenamento quanto de transporte, garantindo segurança, rastreabilidade e eficiência no uso desse material.
+
+O objetivo principal deste projeto é desenvolver um sistema de controle logístico que permita a gestão eficiente da prata, desde sua aquisição até sua distribuição. Esse sistema garantirá que todas as movimentações da prata sejam rastreadas em tempo real, reduzindo perdas e aumentando a segurança do processo.
+
+1.1. Importância
+
+O controle eficaz da logística de prata é fundamental para garantir que o material seja transportado e armazenado de forma segura e eficiente, especialmente devido ao alto valor da prata no mercado. Um sistema de gestão logística adequado pode minimizar o risco de perdas, furtos ou danos ao material, aumentando a confiabilidade das operações.
+
+Além disso, um bom controle de estoque e rastreabilidade da prata permite à empresa tomar decisões mais assertivas, garantindo que os recursos estejam disponíveis quando necessários, sem a necessidade de estoques excessivos que aumentam os custos operacionais. Em suma, um sistema eficiente de controle logístico de prata pode melhorar a lucratividade e a competitividade da empresa no mercado.
+
+
+2. Fases do Projeto: Ciclo de Vida
+
+2.1. Iniciação  
+O objetivo do projeto é implementar um sistema de controle logístico para a gestão da prata, permitindo o rastreamento completo desde o recebimento até o armazenamento e distribuição. O sistema fornecerá dados em tempo real, garantindo segurança e eficiência.
+
+Stakeholders Identificados:
+- Gestores de Logística: Interessados em otimizar o controle de estoque e a movimentação da prata.
+- Equipe de TI: Responsável pela implementação do sistema de controle e rastreamento.
+- Fornecedores de Prata: Envolvidos no processo de transporte e fornecimento do material.
+- Clientes: Receberão a prata através do sistema de distribuição controlado.
+- Equipe de Segurança: Responsável por monitorar e proteger a movimentação e o armazenamento da prata.
+
+2.2. Planejamento  
+Nesta fase, será definido o escopo, o cronograma, o orçamento e a gestão de riscos.
+
+ Escopo: O sistema de controle logístico de prata incluirá:
+•	Implementação de um software de gestão para rastrear a prata em todas as fases (recebimento, armazenamento, transporte e entrega).
+•	Integração com sistemas de segurança e monitoramento.
+•	Controle de inventário automatizado, com alertas para reposição ou movimentações suspeitas.
+•	Relatórios detalhados de estoque e movimentações.
+•	Acesso restrito e rastreamento de usuários para garantir a segurança dos dados.
+
+ Cronograma: O projeto será desenvolvido em 4 meses, com as seguintes etapas:
+•	Mês 1: Definição dos requisitos e escolha da tecnologia.
+•	Mês 2: Desenvolvimento do sistema e integração com sistemas existentes.
+•	Mês 3: Testes de segurança, usabilidade e funcionalidade.
+•	Mês 4: Treinamento da equipe e implantação do sistema.
+
+ Orçamento: O orçamento estimado é de R$ 150.000, distribuído entre:
+•	Desenvolvimento de software e integrações.
+•	Licenciamento de sistemas de rastreamento e segurança.
+•	Treinamento da equipe e suporte técnico.
+•	Compra de hardware, se necessário (servidores, câmeras de segurança integradas, etc.).
+
+ Gestão de Riscos:
+•	Falhas no desenvolvimento do sistema: Estabelecer revisões periódicas do código e backup de dados.
+•	Riscos de segurança: Implementar protocolos de segurança, como criptografia de dados e controle de acessos restritos.
+•	Atrasos na implementação: Definir prazos realistas e contratar profissionais qualificados para desenvolvimento e suporte.
+
+ Planejamento de Comunicação:  
+•	Reuniões semanais com a equipe de TI e gestores de logística.
+•	Ferramentas como Jira para acompanhamento do desenvolvimento e Slack para comunicação diária.
+
+2.3. Execução  
+A fase de execução inclui o desenvolvimento e a implementação do sistema de controle de prata, conforme o planejado.
+
+ Desenvolvimento do Sistema:  
+  O sistema será desenvolvido utilizando tecnologias como Java ou Python para o back-end, e uma interface web responsiva para o front-end. A integração com sistemas de segurança será feita através de APIs, garantindo que todos os dados sobre a prata estejam centralizados e possam ser monitorados em tempo real.
+
+ Implementação do Controle de Estoque:  
+  Um módulo de controle de estoque será desenvolvido, permitindo o rastreamento das quantidades de prata recebidas, armazenadas e distribuídas. Cada movimentação será registrada, com a geração automática de relatórios de estoque.
+
+ Segurança e Rastreabilidade:  
+  Serão implementadas funcionalidades de segurança, como o rastreamento de usuários que acessam o sistema, criptografia de dados sensíveis, e integração com sistemas de monitoramento físico (câmeras, sensores) para garantir a segurança da prata durante o armazenamento e transporte.
+
+ Recursos Alocados:
+•	Desenvolvedores de software.
+•	Especialistas em segurança de TI.
+•	Equipe de logística para integração com o sistema.
+•	Equipe de segurança para monitoramento físico.
+  
+ Gerenciamento da Equipe:  
+  A equipe será gerida através de reuniões semanais com os desenvolvedores e a equipe de logística, além do uso de ferramentas de controle de projetos como Jira e Trello. Relatórios serão enviados regularmente ao gestor de logística para manter todos os stakeholders informados.
+
+2.4. Monitoramento e Controle  
+Durante a execução, será feito um acompanhamento rigoroso para garantir que o projeto esteja dentro do prazo e do orçamento.
+
+ Acompanhamento do Cronograma:  
+  Relatórios semanais serão gerados com base no progresso de cada fase de desenvolvimento do sistema. Caso haja qualquer desvio do cronograma, medidas corretivas serão tomadas imediatamente.
+
+ Monitoramento da Segurança:  
+  Testes de penetração serão realizados para garantir que o sistema de controle de prata seja seguro contra possíveis ataques e vulnerabilidades. Além disso, o sistema será monitorado em tempo real para rastrear a prata durante todas as fases da logística.
+
+ Testes de Funcionalidade:  
+  Testes de usabilidade serão feitos para garantir que a equipe de logística consiga utilizar o sistema sem dificuldades. Serão feitos testes com movimentações reais de prata, simulando o processo de recebimento, armazenamento e distribuição.
+
+2.5. Encerramento  
+A fase de encerramento envolve a entrega final do sistema, juntamente com a documentação e treinamento da equipe.
+
+ Entrega Final:  
+  O sistema será entregue à equipe de logística, e todos os módulos serão testados e validados antes da entrega. Serão realizados ajustes finais com base no feedback dos stakeholders.
+
+ Lições Aprendidas:  
+  Um relatório será elaborado destacando os pontos fortes e fracos do projeto, incluindo como o sistema poderia ser melhorado em futuros desenvolvimentos. Esse aprendizado poderá servir para otimizar novos projetos de controle de materiais valiosos.
+
+ Documentação Final:  
+  Toda a documentação técnica, como código fonte, manuais de uso e documentação de APIs, será entregue ao cliente. Um guia de treinamento será fornecido para garantir que a equipe de logística saiba operar o sistema corretamente.
+
+
